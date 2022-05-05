@@ -1,0 +1,873 @@
+/* GENERAL 
+-------------------------- */
+.jawcag-wrap ul li a:link .icon {
+	padding-right: 0;
+}
+
+
+/* Fonts 
+-------------------------- */
+
+/* Verry Large Font */
+body.fs-3,
+body.fs-3 button, 
+body.fs-3 input, 
+body.fs-3 select, 
+body.fs-3 textarea,
+body.fs-3 #gkMainMenu,
+body.fs-3 .gkMenu > ul > li > a,
+body.fs-3 #gkMenuOverlayContent,
+body.fs-3 .genericView article header h2,
+body.fs-3 dl#tabs dt.tabs span h3,
+body.fs-3 dl.tabs dt.tabs span h3,
+body.fs-3 .box.transparent,
+body.fs-3 .gkContent p,
+body.fs-3 .box .header,
+body.fs-3 .gkNspPM-JomSocialPhotos figcaption small {
+	font-size: 18px !important;
+}
+
+body.fs-3 .gkMenu > ul li div.childcontent li,
+body.fs-3 .gkMenu > ul li div.childcontent .header,
+body.fs-3 .gkNspPM-EventsList > div > div > span,
+body.fs-3 .gkInformation > div > strong,
+body.fs-3 .nspLinks ul li h4,
+body.fs-3 .darkbar ul li p,
+body.fs-3 .gkTweet > div > .gkTweetInfo,
+body.fs-3 #gkBottom5 .box,
+body.fs-3 .menu li,
+body.fs-3 #gkFooter {
+	font-size: 16px !important;
+}
+
+body.fs-3 .gkContent a,
+body.fs-3 .box.icons-menu .last-item a,
+body.fs-3 .readon, 
+body.fs-3 .readon-button {
+	font-size: 17px !important;
+}
+
+body.fs-3 .gkNspPM-EventsList h3 {
+	font-size: 19px !important;
+}
+
+body.fs-3 .box.transparent h3,
+body.fs-3 .darkbar .nspHeader {
+	font-size: 20px !important;
+}
+
+body.fs-3 .box.mediumtitle .header {
+	font-size: 32px !important;
+}
+
+body.fs-3 .gkBottomTitle {
+	font-size: 34px !important;
+}
+
+body.fs-3 .box.parallax .header {
+	font-size: 50px !important;
+}
+
+/* Large Font */
+body.fs-2,
+body.fs-2 button, 
+body.fs-2 input, 
+body.fs-2 select, 
+body.fs-2 textarea,
+body.fs-2 #gkMainMenu,
+body.fs-2 .gkMenu > ul > li > a,
+body.fs-2 #gkMenuOverlayContent,
+body.fs-2 .genericView article header h2,
+body.fs-2 dl#tabs dt.tabs span h3,
+body.fs-2 dl.tabs dt.tabs span h3,
+body.fs-2 .box.transparent,
+body.fs-2 .gkContent p,
+body.fs-2 .box .header,
+body.fs-2 .gkNspPM-JomSocialPhotos figcaption small {
+	font-size: 16px !important;
+}
+
+body.fs-2 .gkMenu > ul li div.childcontent li,
+body.fs-2 .gkMenu > ul li div.childcontent .header,
+body.fs-2 .gkNspPM-EventsList > div > div > span,
+body.fs-2 .gkInformation > div > strong,
+body.fs-2 .nspLinks ul li h4,
+body.fs-2 .darkbar ul li p,
+body.fs-2 .gkTweet > div > .gkTweetInfo,
+body.fs-2 #gkBottom5 .box,
+body.fs-2 .menu li,
+body.fs-2 #gkFooter {
+	font-size: 14px !important;
+}
+
+body.fs-2 .gkContent a,
+body.fs-2 .box.icons-menu .last-item a,
+body.fs-2 .readon, 
+body.fs-2 .readon-button {
+	font-size: 15px !important;
+}
+
+body.fs-2 .gkNspPM-EventsList h3 {
+	font-size: 17px !important;
+}
+
+body.fs-2 .box.transparent h3,
+body.fs-2 .darkbar .nspHeader {
+	font-size: 18px !important;
+}
+
+body.fs-2 .box.mediumtitle .header {
+	font-size: 28px !important;
+}
+
+body.fs-2 .gkBottomTitle {
+	font-size: 30px !important;
+}
+
+body.fs-2 .box.parallax .header {
+	font-size: 44px !important;
+}
+
+
+/* Medium */
+body.fs-1,
+body.fs-1 button, 
+body.fs-1 input, 
+body.fs-1 select, 
+body.fs-1 textarea,
+body.fs-1 #gkMainMenu,
+body.fs-1 .gkMenu > ul > li > a,
+body.fs-1 #gkMenuOverlayContent,
+body.fs-1 .genericView article header h2,
+body.fs-1 dl#tabs dt.tabs span h3,
+body.fs-1 dl.tabs dt.tabs span h3,
+body.fs-1 .box.transparent,
+body.fs-1 .gkContent p,
+body.fs-1 .box .header,
+body.fs-1 .gkNspPM-JomSocialPhotos figcaption small {
+	font-size: 15px !important;
+}
+
+body.fs-1 .gkMenu > ul li div.childcontent li,
+body.fs-1 .gkMenu > ul li div.childcontent .header,
+body.fs-1 .gkNspPM-EventsList > div > div > span,
+body.fs-1 .gkInformation > div > strong,
+body.fs-1 .nspLinks ul li h4,
+body.fs-1 .darkbar ul li p,
+body.fs-1 .gkTweet > div > .gkTweetInfo,
+body.fs-1 #gkBottom5 .box,
+body.fs-1 .menu li,
+body.fs-1 #gkFooter {
+	font-size: 13px !important;
+}
+
+body.fs-1 .gkContent a,
+body.fs-1 .box.icons-menu .last-item a,
+body.fs-1 .readon, 
+body.fs-1 .readon-button {
+	font-size: 14px !important;
+}
+
+body.fs-1 .gkNspPM-EventsList h3 {
+	font-size: 16px !important;
+}
+
+body.fs-1 .box.transparent h3,
+body.fs-1 .darkbar .nspHeader {
+	font-size: 17px !important;
+}
+
+body.fs-1 .box.mediumtitle .header {
+	font-size: 26px !important;
+}
+
+body.fs-1 .gkBottomTitle {
+	font-size: 28px !important;
+}
+
+body.fs-1 .box.parallax .header {
+	font-size: 40px !important;
+}
+
+/* CONSTRAST
+-------------------------- */
+
+/* High Constrast */
+
+/* template.css */
+body.high-contrast #gkContent, 
+body.high-contrast #gkPageContent {
+	color: #000;	
+}
+
+body.high-contrast,
+body.high-contrast.frontpage,
+body.high-contrast.frontpage .gkTweet,
+body.high-contrast.frontpage #gkContent, 
+body.high-contrast.frontpage #gkPageContent {
+	color: #fff;
+	background: #000;
+}
+
+body.high-contrast a,
+body.high-contrast #gkMainbody header h1 a:active,
+body.high-contrast #gkMainbody header h1 a:focus,
+body.high-contrast #gkMainbody header h1 a:hover,
+body.high-contrast #gkMainbody header h2 a:active,
+body.high-contrast #gkMainbody header h2 a:focus,
+body.high-contrast #gkMainbody header h2 a:hover,
+body.high-contrast #k2Container article header h2 a:active,
+body.high-contrast #k2Container article header h2 a:focus,
+body.high-contrast #k2Container article header h2 a:hover,
+body.high-contrast #community-wrap .joms-stream-box article>a,
+body.high-contrast .faq li a:hover,
+body.high-contrast #login-form ul li a:hover {
+	color: #CF2C07;
+}
+
+body.high-contrast .readon {
+	color: #CF2C07;
+}
+
+body.high-contrast .breadcrumbs li a:hover { color: #CF2C07; }
+body.high-contrast #gkFooter a:active,
+body.high-contrast #gkFooter a:focus,
+body.high-contrast #gkFooter a:hover {
+	color: #CF2C07;
+}
+
+body.high-contrast .box.transparent a:active,
+body.high-contrast .box.transparent a:focus,
+body.high-contrast .box.transparent a:hover {
+	color: #CF2C07;
+}
+
+body.high-contrast .box.transparent ul + a,
+body.high-contrast .gkNspPM-JomSocialPhotos figcaption a {
+	color: #fff;
+}
+
+body.high-contrast .box.dark a:active,
+body.high-contrast .box.dark a:focus,
+body.high-contrast .box.dark a:hover { color: #CF2C07!important; }
+body.high-contrast .box.color1,
+body.high-contrast .box.color2 {
+	background: #0779CA;
+}
+
+body.high-contrast .box.color2 {
+	background: #CF2C07;
+}
+
+body.high-contrast .box.newsletter .header {
+	color: #000;
+}
+
+body.high-contrast .menu li a:hover,
+body.high-contrast .icons-menu li a:hover { color: #CF2C07 !important; }
+body.high-contrast .box.icons-menu li a:active [class^="gk-icon-"],
+body.high-contrast .box.icons-menu li a:focus [class^="gk-icon-"],
+body.high-contrast .box.icons-menu li a:hover [class^="gk-icon-"],
+body.high-contrast .box.icons-menu li a:active [class*=" gk-icon-"],
+body.high-contrast .box.icons-menu li a:focus [class*=" gk-icon-"],
+body.high-contrast .box.icons-menu li a:hover [class*=" gk-icon-"] {
+	color: #CF2C07;
+}
+
+body.high-contrast .box.icons-menu li a,
+body.high-contrast .box.icons-menu li a [class*=" gk-icon-"],
+body.high-contrast .box.icons-menu li a [class^="gk-icon-"] {
+	color: #fff;
+}
+
+body.high-contrast #gkBottom5 .box a:active,
+body.high-contrast #gkBottom5 .box a:focus,
+body.high-contrast #gkBottom5 .box a:hover {
+	color: #CF2C07;
+}
+
+body.high-contrast #gkPopupLogin #login-form + a:hover {background: #CF2C07;}
+
+/* joomla.css */
+body.high-contrast button,
+body.high-contrast .button,
+body.high-contrast input.button,
+body.high-contrast span.button,
+body.high-contrast button.button,
+body.high-contrast div.button,
+body.high-contrast input[type="submit"],
+body.high-contrast input[type="button"],
+body.high-contrast .pagenav-prev a,
+body.high-contrast .pagenav-next a,
+body.high-contrast #gkMainbody .itemReadMore,
+body.high-contrast #gkMainbody .readmore > a,
+body.high-contrast .button.invert:active,
+body.high-contrast .button.invert:focus,
+body.high-contrast .button.invert:hover,
+body.high-contrast .gkShowCart a,
+body.high-contrast #cWindow a.plupload_button {
+	background: #CF2C07;
+	border: 1px solid #CF2C07;
+}
+
+body.high-contrast section.categories-list ul ul li {
+	border-left: 3px solid #CF2C07;
+}
+
+body.high-contrast section.category .children h3,
+body.high-contrast section.blog .children h3 {
+	color: #CF2C07;
+}
+
+body.high-contrast th {
+	border-bottom: 3px solid #CF2C07;
+}
+
+body.high-contrast tbody tr td a:hover, section.category .children li a:hover { color: #CF2C07 }
+body.high-contrast article header.itemHasImage h1 a:active,
+body.high-contrast article header.itemHasImage h1 a:focus,
+body.high-contrast article header.itemHasImage h1 a:hover { color: #CF2C07!important; }
+body.high-contrast article header li a:hover { color: #CF2C07 }
+body.high-contrast .tip-title {
+	background: #CF2C07;
+}
+
+body.high-contrast #system-message dd.error {
+	background: #fb7252;
+}
+
+body.high-contrast #system-message dd.notice {
+	background: #0779CA;
+}
+
+body.high-contrast div.bannerfooter {
+	color: #CF2C07;
+}
+
+body.high-contrast dl#tabs dt.tabs span h3 a:hover,
+body.high-contrast dl.tabs dt.tabs span h3 a:hover { color: #CF2C07 }
+body.high-contrast .autocompleter-queried { color: #CF2C07!important }
+body.high-contrast .faq-title { color: #CF2C07}
+
+body.high-contrast .breadcrumbs li.separator {
+	color: #000;
+}
+
+/* gk_stuff.css */
+body.high-contrast .nspPagination li:hover,
+body.high-contrast .nspPagination li.active { background-color: #CF2C07; }
+body.high-contrast .nspNext:hover:after,
+body.high-contrast .nspPrev:hover:after { color: #CF2C07; }
+body.high-contrast .nspArt .nspHeader a:hover,
+body.high-contrast .nspLinks ul li h4 a:hover { color: #CF2C07 !important; }
+body.high-contrast .box.dark a.readon:active,
+body.high-contrast .box.dark a.readon:focus,
+body.high-contrast .box.dark a.readon:hover { color: #CF2C07!important; }
+body.high-contrast .box.dark .nspPagination li.active { background: #CF2C07; }
+body.high-contrast .darkbar .nspHeader a:active,
+body.high-contrast .darkbar .nspHeader a:focus,
+body.high-contrast .darkbar .nspHeader a:hover,
+body.high-contrast .darkbar li h4 a:active,
+body.high-contrast .darkbar li h4 a:focus,
+body.high-contrast .darkbar li h4 a:hover { color: #CF2C07 !important; }
+body.high-contrast .gkNspPM-EventsList a:active,
+body.high-contrast .gkNspPM-EventsList a:focus,
+body.high-contrast .gkNspPM-EventsList a:hover {
+	color: #CF2C07;
+}
+body.high-contrast .gkNspPM-EventsList .gkEventsListProgress > div {
+	background: #CF2C07;
+}
+body.high-contrast .gkTabsWrap ol li.active,
+body.high-contrast .gkTabsWrap ol li.active:hover {
+	border-top: 4px solid #CF2C07;
+}
+body.high-contrast .gkIsWrapper-gk_university .gkProgress {
+	border: 1px solid #CF2C07;
+}
+body.high-contrast .gkIsWrapper-gk_university .gkProgressBar {
+	background: #CF2C07;
+}
+body.high-contrast .gk-features li.highlighted strong {
+	background: #CF2C07;
+	border: 1px solid #CF2C07;
+}
+body.high-contrast .gkMenu .nspArt .readon {
+	color: #CF2C07!important;
+}
+body.high-contrast .gkTweet p > a:active,
+body.high-contrast .gkTweet p > a:focus,
+body.high-contrast .gkTweet p > a:hover { color: #CF2C07; }
+body.high-contrast .gkTweet > div > .gkTweetInfo:before {
+	color: #CF2C07;
+}
+body.high-contrast .gkInformation > div > input[type="submit"] {
+	background: #CF2C07;
+}
+body.high-contrast .gkInformation > div > input[type="submit"]:active,
+body.high-contrast .gkInformation > div > input[type="submit"]:focus,
+body.high-contrast .gkInformation > div > input[type="submit"]:hover { background: #CF2C07; }
+body.high-contrast .gkEvent .gkEventPeriod:before,
+body.high-contrast .gkEvent .gkEventHours:before {
+	color: #CF2C07;
+}
+body.high-contrast .gkEvent .gkEventRegister {
+	background: #CF2C07;
+}
+body.high-contrast .gkEvent .gkEventRegister:hover { background: #CF2C07; }
+body.high-contrast .gkEventCounter > div {
+	background: #CF2C07;
+}
+
+body.high-contrast #itemListLinks .gkEvent .gkEventRegister a {
+	color: #fff;
+}
+
+body.high-contrast .gkIsWrapper-gk_university figcaption p, 
+body.high-contrast .gkIsWrapper-gk_university figcaption a {
+	color: #fff;
+}
+
+body.high-contrast .gkTweet > div > .gkTweetInfo {
+	color: #fff;
+}
+
+body.high-contrast .nspArt p.nspInfo,
+body.high-contrast .nspArt p.nspText {
+	color: #757575;
+}
+
+/* menu.css */
+body.high-contrast .gkMenu > ul > li > a:active,
+body.high-contrast .gkMenu > ul > li > a:focus,
+body.high-contrast .gkMenu > ul > li > a:hover {
+	color: #CF2C07;
+}
+
+body.high-contrast .gkMenu ul > li.active > a {
+	color: #CF2C07 !important;
+}
+
+body.high-contrast .gkMenu > ul li div.childcontent a:hover {
+	color: #CF2C07!important;
+}
+body.high-contrast #gkHeaderNav li.gkLogin {
+	border: 1px solid rgba(250, 114, 82, 0.5);
+}
+body.high-contrast #gkHeaderNav li.gkLogin:hover {
+	border-color: #CF2C07;
+}
+body.high-contrast #close-menu {
+	color: #CF2C07;
+}
+body.high-contrast #aside-menu li a.active,
+body.high-contrast #aside-menu li a:active,
+body.high-contrast #aside-menu li a:focus,
+body.high-contrast #aside-menu li a:hover {
+	color: #CF2C07;
+}
+
+/* k2.css */
+body.high-contrast .k2FeedIcon a:before,
+body.high-contrast a.k2FeedIcon:before {
+	color: #CF2C07;
+}
+body.high-contrast .itemComments .icon-comments {
+	background: #CF2C07;
+}
+body.high-contrast .itemAuthorData a:hover,
+body.high-contrast ul.itemTags li a:hover,
+body.high-contrast .itemAuthorContent ul li a:hover { color: #CF2C07 }
+body.high-contrast .k2AuthorsListBlock ul li a.abAuthorLatestItem:hover { color: #CF2C07; }
+body.high-contrast .k2CalendarBlock table.calendar tr td.calendarDateLinked a:hover {
+	background: #CF2C07;
+}
+body.high-contrast .k2CalendarBlock table.calendar tr td.calendarToday {
+	background: #CF2C07;
+}
+body.high-contrast table.calendar tr td.calendarTodayLinked a {
+	color: #CF2C07;
+}
+body.high-contrast .k2CalendarBlock table.calendar tr td.calendarTodayLinked a:hover {
+	background: #CF2C07;
+}
+body.high-contrast .calendarNavLink { color: #CF2C07; }
+body.high-contrast .k2TagCloudBlock a:hover { color: #CF2C07 }
+
+body.high-contrast .catCounter,
+body.high-contrast article header li,
+body.high-contrast .itemLinks,
+body.high-contrast .itemComments .itemCommentsList li span,
+body.high-contrast .itemCommentsForm .itemCommentsFormNotes,
+body.high-contrast .k2LatestCommentsBlock div p a,
+body.high-contrast .pagination ul li {
+	color: #757575;
+}
+
+body.high-contrast .itemComments .itemCommentsList li.odd span {
+	color: #000;
+}
+
+/* jomsocial.css */
+body.high-contrast .joms-button--primary,
+body.high-contrast .joms-button--add,
+body.high-contrast .joms-button--login,
+body.high-contrast .joms-button__reject,
+body.high-contrast .joms-postbox-tab .joms-postbox-save,
+body.high-contrast .joms-postbox-tab .joms-postbox-done,
+body.high-contrast .joms-focus__button--add,
+body.high-contrast .joms-button__next,
+body.high-contrast .joms-button--secondary,
+body.high-contrast .joms-button--signup,
+body.high-contrast .joms-focus__button--message,
+body.high-contrast .joms-button--neutral,
+body.high-contrast .joms-button--more,
+body.high-contrast .joms-button--comment,
+body.high-contrast .joms-button__approve,
+body.high-contrast .joms-postbox-tab .joms-postbox-cancel,
+body.high-contrast .joms-focus__button--options,
+body.high-contrast .joms-button--important {
+	background: #CF2C07!important;
+}
+body.high-contrast .joms-tab__bar > a.active {
+	border-bottom: 1px solid #CF2C07;
+	color: #CF2C07;
+}
+body.high-contrast .joms-popup__ddcontent a:hover {
+	background: #CF2C07;
+}
+body.high-contrast .joms-subnav--desktop > ul > li > a {
+	color: #CF2C07;
+}
+body.high-contrast .joms-focus__actions--desktop > a,
+body.high-contrast .joms-focus__actions--reposition input[type="button"] {
+	background: #CF2C07!important;
+}
+body.high-contrast .joms-focus__actions--desktop > a:active,
+body.high-contrast .joms-focus__actions--desktop > a:focus,
+body.high-contrast .joms-focus__actions--desktop > a:hover,
+body.high-contrast .joms-focus__actions--reposition input[type="button"]:active,
+body.high-contrast .joms-focus__actions--reposition input[type="button"]:focus,
+body.high-contrast .joms-focus__actions--reposition input[type="button"]:hover {
+	color: #CF2C07!important;
+}
+body.high-contrast .joms-focus__link a.liked {
+	color: #CF2C07!important;
+}
+body.high-contrast .joms-focus__link a.liked svg {
+	fill: #CF2C07!important;
+}
+body.high-contrast .picker--focused .picker__day--highlighted,
+body.high-contrast .picker__day--highlighted:hover {
+	background: #CF2C07
+}
+body.high-contrast .picker__button--today:before {
+	border-top-color: #CF2C07!important;
+}
+body.high-contrast .picker__day--today:before {
+	border-top-color: #CF2C07!important;
+}
+body.high-contrast .joms-progressbar__progress {
+	background: #CF2C07;
+}
+body.high-contrast .joms-toolbar--desktop > ul > li:hover,
+body.high-contrast .joms-toolbar--desktop > ul > li.active {
+	background: #CF2C07;
+}
+body.high-contrast .joms-postbox-photo-progressbar .joms-postbox-photo-progress {
+	background: #CF2C07!important;
+}
+body.high-contrast .joms-landing__action .joms-form > a:active,
+body.high-contrast .joms-landing__action .joms-form > a:focus,
+body.high-contrast .joms-landing__action .joms-form > a:hover {
+	color: #CF2C07;
+}
+body.high-contrast .joms-button--link {
+	color: #CF2C07!important;
+}
+body.high-contrast .joms-menu a:hover,
+body.high-contrast .joms-menu--user a:hover {
+	background: #CF2C07;
+}
+
+@media (max-width: 991px) {
+	body.high-contrast .joms-sidebar .joms-tab__bar > a.active {
+		border-bottom-color: #CF2C07;
+		color: #CF2C07;
+	}
+}
+
+/* JS v.4.1 improvements */
+body.high-contrast .innerpgbar {
+	background: #CF2C07;
+}
+body.high-contrast .joms-popup--privacy a:hover {
+	background-color: #CF2C07;
+}
+body.high-contrast .joms-textarea__attachment button {
+	color: #CF2C07 !important;
+}
+
+body.high-contrast #gkHeaderNav {
+	background: #000;
+	max-width: 1720px;
+	margin: 0 auto;
+	left: 50%;
+	transform: translateX(-50%);
+	padding: 40px 20px;
+}
+
+body.high-contrast .gkIsWrapper-gk_university figcaption > div {
+	background: rgba(14, 22, 35, .89);
+	padding: 40px;
+}
+
+body.high-contrast .gkNspPM-EventsList > div > div > span,
+body.high-contrast .box,
+body.high-contrast .gkMenu > ul li div.childcontent a {
+	color: #757575;
+}
+
+body.high-contrast .box.transparent {
+	color: #fff;
+}
+
+body.high-contrast .box.gk-video {
+	background-color: #000;
+}
+
+body.high-contrast .box.gk-video .gkVideoBlock {
+	color: #fff;
+	background: none;
+}
+
+body.high-contrast .box.icons-menu .last-item a,
+body.high-contrast .gkContent a,
+body.high-contrast .gkTweet > div > .gkTweetInfo::before,
+body.high-contrast #sbox-btn-close {
+	color: #fff;
+}
+
+body.high-contrast .box.icons-menu .last-item a:active, 
+body.high-contrast .box.icons-menu .last-item a:focus, 
+body.high-contrast .box.icons-menu .last-item a:hover {
+	color: #CF2C07 !important;
+} 
+
+body.high-contrast .box.parallax {
+	background: #545454;
+}
+
+body.high-contrast #gkFooter a,
+body.high-contrast #gkFooter {
+	color: #fff;
+}
+
+body.high-contrast #gkFooter #gkColor1,
+body.high-contrast #gkFooter #gkColor2,
+body.high-contrast #gkFooter #gkColor3 {
+	color: #111;
+}
+
+body.high-contrast .box.color1, 
+body.high-contrast .box.color2 {
+	background: #0779CA;
+}
+
+body.high-contrast .box.parallax .readon {
+	color: #FBBFB1;
+}
+
+body.high-contrast #aside-menu li a.active, 
+body.high-contrast #aside-menu li a:active, 
+body.high-contrast #aside-menu li a:focus, 
+body.high-contrast #aside-menu li a:hover,
+body.high-contrast #aside-menu li a,
+body.high-contrast .gkMenu ul > li.active > a,
+body.high-contrast #gkLogo.cssLogo {
+	background-color: #000 !important;
+	color: #fff !important;
+}
+
+body.high-contrast button, 
+body.high-contrast .button, 
+body.high-contrast input.button, 
+body.high-contrast span.button, 
+body.high-contrast button.button, 
+body.high-contrast div.button, 
+body.high-contrast input[type="submit"], 
+body.high-contrast input[type="button"], 
+body.high-contrast .pagenav-prev a, 
+body.high-contrast .pagenav-next a, 
+body.high-contrast #gkMainbody .itemReadMore, 
+body.high-contrast #gkMainbody .readmore > a, 
+body.high-contrast .button.invert:active, 
+body.high-contrast .button.invert:focus, 
+body.high-contrast .button.invert:hover, 
+body.high-contrast .gkShowCart a, 
+body.high-contrast #cWindow a.plupload_button {
+	background-color: #CF2C07;
+}
+
+body.high-contrast select, 
+body.high-contrast textarea, 
+body.high-contrast input[type="text"], 
+body.high-contrast input[type="password"], 
+body.high-contrast input[type="url"], 
+body.high-contrast input[type="email"], 
+body.high-contrast input[type="search"] {
+	color: #757575;
+}
+
+body.high-contrast #close-menu {
+	background: #000;
+}
+
+body.high-contrast.frontpage .gkTweet > div p,
+body.high-contrast.frontpage .gkTweet p > a,
+body.high-contrast.frontpage .box .header,
+body.high-contrast.frontpage .box,
+body.high-contrast #gkBottom5 .box .header {
+	color: #fff;
+}
+
+body.high-contrast #gkBottom5 .box a {
+	color: #fff;
+}
+
+body.high-contrast .gkTweetName a {
+	color: #fff;
+	text-shadow: none;
+}
+
+body.high-contrast #gkPageContent + #gkBottom1::before, 
+body.high-contrast #gkPageContent + #gkBottom2::before, 
+body.high-contrast #gkPageContent + #gkBottom3::before, 
+body.high-contrast #gkPageContent + #gkBottom4::before, 
+body.high-contrast #gkPageContent + #gkBottom5::before {
+	border-top: 1px solid #000;
+}
+
+body.high-contrast.frontpage .box.newsletter .header {
+	color: #000;
+}
+
+/* Typography */
+body.high-contrast p.gkWarning1,
+body.high-contrast .typoDesc .bubble-2 {
+	background-color: #CF2C07;
+}
+
+body.high-contrast .typoDesc small,
+body.high-contrast p.num-1 span {
+	color: #757575;
+}
+
+body.high-contrast .typoDesc .bubble-1 small {
+	color: #111;
+}
+
+body.high-contrast .typoDesc .bubble-2 small {
+	color: #fff;
+}
+
+body.high-contrast .bubble-2::after {
+	border-color: #CF2C07;
+	border-left: 22px solid transparent;
+}
+
+body.high-contrast p.num-3 span {
+	border-color: #CF2C07;
+	color: #CF2C07;
+}
+
+body.high-contrast .bubble-2 cite {
+	color: #CF2C07;
+	background-color: #fff;
+}
+
+/* LAYOUT 
+-------------------------- */
+
+/* Wide Layout */
+body.wide-layout .gkPage, 
+body.wide-layout .gkPage #gkPageContent + #gkBottom1::before, 
+body.wide-layout .gkPage #gkPageContent + #gkBottom2::before, 
+body.wide-layout .gkPage #gkPageContent + #gkBottom3::before, 
+body.wide-layout .gkPage #gkPageContent + #gkBottom4::before, 
+body.wide-layout .gkPage #gkPageContent + #gkBottom5::before {
+	max-width: 100%;
+	padding: 0 110px;
+}
+
+
+
+/* LINKS 
+-------------------------- */
+
+/* Yellow Color Link */
+body.yellow-color a:link,
+body.yellow-color a:link:hover,
+body.yellow-color a:link:focus,
+body.yellow-color a:link:active,
+body.yellow-color .gkIsWrapper-gk_university figcaption a,
+body.yellow-color .gkIsWrapper-gk_university figcaption a:hover,
+body.yellow-color .gkIsWrapper-gk_university figcaption a:focus,
+body.yellow-color .gkIsWrapper-gk_university figcaption a:active,
+body.yellow-color .gkIsWrapper-gk_university figcaption a p,
+body.yellow-color .gkIsWrapper-gk_university figcaption a:hover p,
+body.yellow-color .gkIsWrapper-gk_university figcaption a:focus p,
+body.yellow-color .gkIsWrapper-gk_university figcaption a:active p,
+body.yellow-color #gkFooter a,
+body.yellow-color #gkFooter a:hover,
+body.yellow-color #gkFooter a:focus,
+body.yellow-color #gkFooter a:active,
+body.yellow-color .box.gk-video .gkVideoBlock,
+body.yellow-color .box.transparent a,
+body.yellow-color .box.icons-menu li a,
+body.yellow-color .darkbar .nspHeader a, 
+body.yellow-color .darkbar li h4 a,
+body.yellow-color .box.parallax .readon,
+body.yellow-color .box.color1 a,
+body.yellow-color .box.color1 a:hover, 
+body.yellow-color .box.color2 a,
+body.yellow-color .box.color2 a:hover,
+body.yellow-color #gkBottom5 .box a,
+body.yellow-color #gkBottom5 .box a:hover,
+body.yellow-color .gkMenu > ul > li > a,
+body.yellow-color #aside-menu li a.active, 
+body.yellow-color #aside-menu li a:active, 
+body.yellow-color #aside-menu li a:focus, 
+body.yellow-color #aside-menu li a:hover, 
+body.yellow-color #aside-menu li a, 
+body.yellow-color .gkMenu ul > li.active > a, 
+body.yellow-color #gkLogo.cssLogo {
+	background-color: #ff0 !important;
+	color: #000 !important;
+}
+
+body.yellow-color .gk-social-icons li a:hover::before {
+	color: #000 !important;
+}
+
+body.yellow-color .jawcag-wrap ul li a:link {
+	background-color: rgba(255,255,255,0.1) !important;
+}
+
+body.yellow-color.high-contrast .pre-high-contrast a:link, 
+body.yellow-color.grayscale-constrast .pre-grayscale-constrast a:link, 
+body.yellow-color.yellow-color .pre-yellow-color a:link, 
+body.yellow-color.underline-link .pre-underline-link a:link, 
+body.yellow-color.default-link .pre-default-link a:link {
+	background-color: #2196f3 !important;
+}
+
+body.yellow-color .box.gk-video .gkVideoBlock::before {
+	border-color: #000;
+	color: #000;
+}
+
+body.yellow-color .box.icons-menu li a [class*=" gk-icon-"], 
+body.yellow-color .box.icons-menu li a [class^="gk-icon-"] {
+	color: #000 !important;
+}

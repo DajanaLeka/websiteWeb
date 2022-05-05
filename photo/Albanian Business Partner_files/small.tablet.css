@@ -1,0 +1,514 @@
+/*
+#------------------------------------------------------------------------
+# University - May Joomla! template (for Joomla 2.5)
+#
+# Copyright (C) 2007-2014 Gavick.com. All Rights Reserved.
+# License: Copyrighted Commercial Software
+# Website: http://www.gavick.com
+# Support: support@gavick.com
+*/
+
+body.jomsocial {
+    background-size: 100% 200px;
+}
+
+#gkContentWrap,
+#gkInset {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    width: 100%;
+}
+
+.itemsContainer .itemsContainerWrap,
+.itemContainer .itemsContainerWrap {
+    margin: 0 !important;
+}
+
+.k2FeedIcon a,
+a.k2FeedIcon {
+    margin-top: 32px;
+}
+
+.demo-typo-col2,
+.demo-typo-col3,
+.demo-typo-col4 {
+    clear: both;
+    float: none;
+    padding-bottom: 20px;
+    width: 100%;
+}
+
+#gkBottom1 .box.double,
+#gkBottom1 .box.double ~ .box,
+#gkBottom2 .box.double,
+#gkBottom2 .box.double ~ .box,
+#gkBottom3 .box.double,
+#gkBottom3 .box.double ~ .box,
+#gkBottom4 .box.double,
+#gkBottom4 .box.double ~ .box,
+#gkBottom5 .box.double,
+#gkBottom5 .box.double ~ .box {
+    width: 50% !important;
+}
+
+#gkBottom1.gkSingleModule .box,
+#gkBottom2.gkSingleModule .box,
+#gkBottom3.gkSingleModule .box,
+#gkBottom4.gkSingleModule .box,
+#gkBottom5.gkSingleModule .box {
+    width: 100% !important;
+}
+
+/* Frontpage elements */
+.gkTweets .gkTweet {
+    width: 50% !important;
+}
+
+.darkbar .nspList:first-child > li:first-child:after {
+    display: none;
+}
+
+.nspArts,
+.nspLinksWrap {
+    clear: both;
+    width: 100% !important;
+}
+
+.gk-newsletter p > span,
+.gk-newsletter p input {
+    display: block;
+    width: 100% !important;
+}
+
+.gk-newsletter input {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.gk-newsletter input[type="email"] {
+    margin-bottom: 1%;
+}
+
+.gkNspPM-JomSocialPhotos[data-cols="1"] figure,
+.gkNspPM-JomSocialPhotos[data-cols="2"] figure {
+    width: 340px !important;
+}
+
+.gkNspPM-JomSocialPhotos[data-cols="3"] figure {
+    width: 220px !important;
+}
+
+.gkNspPM-JomSocialPhotos[data-cols="4"] figure {
+    width: 180px !important;
+}
+
+.gkNspPM-EventsList time {
+    display: none;
+}
+
+.gkNspPM-EventsList > div > time + div {
+    padding-left: 0;
+}
+
+.gkInformation > div > strong {
+    padding: 30px 0 30px 50px;
+    width: 33.333333%;
+}
+
+.gkInformation > div > strong:before {
+    top: 20px;
+}
+
+.gkInformation > div input {
+    margin-bottom: 1%;
+    margin-left: 1%;
+    width: 32.333333% !important;
+}
+
+.gkContentImage + .gkContent {
+    padding: 0 0 0 30px;
+}
+
+@media (max-width: 660px) {
+    body #cc-notification h2,
+    body #cc-notification h3,
+    body #cc-notification p {
+        font-size: 12px !important;
+        margin-bottom: 0 !important;
+        width: 100% !important;
+        max-width: 100% !important;
+    }
+
+    body #cc-notification h2 span,
+    body #cc-notification h2 {
+        font-size: 12px !important;
+    }
+
+    body #cc-notification #cc-notification-wrapper {
+        padding: 10px 32px 0 !important;
+    }
+
+    body #cc-notification ul.cc-notification-buttons {
+        clear: both !important;
+        width: 100% !important;
+        position: static !important;
+        text-align: center;
+    }
+
+    body #cc-notification ul.cc-notification-buttons li {
+        float: none !important;
+        display: inline-block;
+    }
+
+    body #cc-notification a,
+    body #cc-notification a:visited {
+        font-size: 12px !important;
+    }
+}
+
+#gkPageContent.gkPage, .jomsocial #gkPageContent {
+    padding: 30px;
+}
+
+div#content-txt, div#contetn-image {
+    padding: 30px 0 !important;
+}
+
+div#contetn-image img {
+    width: 90% !important;
+}
+
+.txt-center span.txt-number {
+    font-size: 30px !important;
+    padding-right: 5px !important;
+    margin-right: 10px !important;
+}
+
+.txt-center p {
+    font-size: 14px !important;
+}
+
+.solutions-page .blog .items-row.cols-1.row- .img-intro-left {
+    width: 40% !important;
+}
+
+.solutions-page .blog .items-row.cols-1.row- .img-intro-left img {
+    padding: 20px 0 !important;
+    width: 90% !important;
+    margin: 0 auto !important;
+}
+
+.solutions-page .blog .items-row.cols-1.row- header {
+    width: 60% !important;
+    padding: 20px 0 0 !important;
+}
+
+.solutions-page .blog .items-row.cols-1.row- .itemBody {
+    width: 60% !important;
+    padding: 0 !important;
+}
+
+.solutions-page .blog article header h2 {
+    font-size: 14px !important;
+    margin: 0 0 10px !important;
+}
+
+.solutions-page .blog .items-row.cols-1.row- header h2:before {
+    padding: 0 5px 0 0 !important;
+}
+
+.solutions-page .blog article .itemBody.nodate, .solutions-page .blog article .itemBody h2.big-txt,
+.solutions-page .blog article p.readmore a {
+    font-size: 14px !important;
+}
+
+.solutions-page .blog article p.readmore {
+    margin: 15px 0 0 !important;
+}
+
+.solutions-page .blog article {
+    padding-top: 0 !important
+}
+
+.solutions-page .blog .items-row .column-1 {
+    margin-bottom: 0 !important;
+}
+
+.member-module h3, .certified-module h3 {
+    padding: 0 0 20px !important;
+}
+
+.box.certified-module {
+    margin: 25px 0 0;
+}
+
+.member-module h3 span, .certified-module h3 span {
+    font-size: 25px;
+}
+
+.member-of-logos img, .certified-by-logos img {
+    height: 40px;
+    padding: 0 10px 0;
+    margin-bottom: 10px;
+}
+
+ul.newsflash-vertvacancies-module.mod-list, ul.newsflash-vertinternship-module.mod-list {
+    display: block !important;
+    margin: 0 !important;
+}
+
+ul.newsflash-vertvacancies-module.mod-list li.newsflash-item, ul.newsflash-vertinternship-module.mod-list li.newsflash-item {
+    margin: 0 0 20px !important;
+}
+
+.box.cat-description {
+    margin: 20px 0 0 !important;
+}
+
+.cat-description h3.header {
+    line-height: 40px !important;
+    font-size: 30px !important;
+}
+
+.cat-description h3.header:after {
+    width: 40px !important;
+    border-bottom: 3px solid #3f77f9 !important;
+}
+
+.cat-description .content {
+    font-size: 15px !important;
+}
+
+.box.vacancies-module, .box.internship-module {
+    margin-top: 15px !important;
+}
+
+.box.internship-module {
+    margin-top: 50px!important;
+}
+
+h3.newsflash-titlevacancies-module, h3.newsflash-titleinternship-module {
+    font-size: 17px !important;
+}
+
+li.newsflash-item p {
+    font-size: 13px !important;
+    margin-bottom: 2em !important;
+}
+
+li.newsflash-item dl.fields-container {
+    margin-bottom: 10px !important;
+    position: relative !important;
+}
+
+article.item-page dd.field-entry.apply-btn {
+    margin: 0;
+}
+
+li.newsflash-item .fields-container span.field-label, .careers-page .item-page .fields-container span.field-label,
+li.newsflash-item .fields-container span.field-value, .careers-page .item-page .fields-container span.field-value {
+    font-size: 12px !important;
+}
+
+div#applybutton-mobile {
+    display: block !important;
+    /* width: 100%;
+    float: left; */
+}
+
+div#applybutton,
+.modal-window {
+    display: none !important;
+
+}
+
+div#applybutton-mobile a.apply-button {
+    display: block;
+    width: 100%;
+    max-width: 200px;
+    text-align: center;
+}
+
+.application-form .form-row .col-6 {
+    -ms-flex: 0 0 100% !important;
+    flex: 0 0 100% !important;
+    max-width: 100% !important;
+    padding: 0 !important;
+}
+
+.application-form .rsform-block-gender, .application-form .rsform-block-internship {
+    padding-left: 0 !important;
+}
+
+.application-form {
+    padding: 25px !important;
+}
+
+.application-form .rsform-block-cv input#CV, .application-form .rsform-block-coverletter input#CoverLetter {
+    vertical-align: middle;
+}
+
+.custom.contact-us .map {
+    margin: 20px 0 0 !important;
+}
+
+.box.what-do-say.gkmod-1 .nspArt.nspCol3 {
+    width: 96% !important;
+    margin: 15px 2% 15px;
+}
+
+#gkTop1, #gkTop2 {
+    padding: 0 !important;
+}
+
+.box.what-we-do-best.gkmod-1 h3.header span, .box.what-do-say.gkmod-1 h3.header span, .box.meet.gkmod-1 h3.header span, .box.clients.gkmod-1 h3.header span {
+    line-height: 40px !important;
+    font-size: 29px !important;
+}
+
+.box.what-we-do-best.gkmod-1 h3.header:after, .box.clients.gkmod-1 h3.header:after, .box.what-do-say.gkmod-1 h3.header:after, .box.meet.gkmod-1 h3.header:after {
+    border-bottom: 4px solid #3f77f9 !important;
+    width: 40px !important;
+}
+
+.box.what-we-do-best.gkmod-1 .intro, .meet-text {
+    width: 80% !important;
+    margin: 30px !important;
+    font-size: 17px !important;
+}
+
+.box.what-we-do-best.gkmod-1 .nspArts {
+    padding: 0 !important;
+}
+
+.box.what-we-do-best.gkmod-1 .nspArtPage .nspArt {
+    width: 100% !important;
+    padding-right: 0 !important;
+}
+
+.box.what-we-do-best.gkmod-1 h4.nspHeader.tleft.fnone {
+    padding: 0 0 5px !important;
+}
+
+.box.what-we-do-best.gkmod-1 a.readon.fleft {
+    margin-top: 10px !important;
+}
+
+#gkBottom5.gkSingleModule {
+    padding: 30px 0 0 !important;
+}
+
+.footer-cols {
+    display: block !important;
+    width: 100% !important;
+    float: left !important;
+}
+
+.footer-cols .col, .footer-cols .col-6 {
+    float: left !important;
+    display: block !important;
+    width: 100% !important;
+    padding: 0 10px 20px !important
+}
+
+.certified-by,
+.members-icon {
+    padding: 10px 0 0 !important;
+}
+
+.members-icon img,
+.certified-by img {
+    padding: 0 !important;
+    height: 50px !important;
+}
+
+.members-icon ul li,
+.certified-by ul li {
+    padding: 10px !important;
+}
+
+#gkCopyrights {
+    margin: 10px auto 10px !important;
+    float: none !important;
+}
+
+.box.meet.gkmod-1 h3 {
+    margin: 30px 0 !important;
+}
+
+.box.what-do-say.gkmod-1 .content.gkPage {
+    padding: 40px 0 0 !important;
+}
+
+.box.meet.gkmod-1 {
+    padding: 100px 0 0 !important;
+    -webkit-clip-path: polygon(0 100%, 100% 100%, 100% 100px, 0px 0px) !important;
+    clip-path: polygon(0 100%, 100% 100%, 100% 100px, 0px 0px) !important;
+}
+
+#gkBreadcrumb {
+    margin: 0 0 30px !important;
+    padding: 0 !important;
+    overflow: visible;
+    display: block;
+    width: 100%;
+    float: left;
+}
+
+.breadcrumbs li a,
+ul.breadcrumbs li {
+    font-size: 15px !important;
+}
+
+article.item-page.references .img-fulltext-left {
+    width: 100% !important;
+    margin-right: 0 !important;
+}
+
+article.item-page.references .itemBody {
+	position: relative;
+    width: 100% !important;
+    font-size: 15px !important;
+}
+
+.item-page .tags {
+    padding: 0 !important;
+}
+.box.references.gkmod-1 {
+	padding: 0!important;
+}
+
+.box.references.gkmod-1 .sprocket-mosaic-filter ul li {
+    font-size: 15px !important;
+	margin:3px 2px!important;
+}
+
+#main .sprocket-mosaic .sprocket-mosaic-filter ul li,
+#main .sprocket-mosaic .sprocket-mosaic-filter ul li,
+.sprocket-mosaic .sprocket-mosaic-filter li,
+.sprocket-mosaic .sprocket-mosaic-filter li {
+    padding: 1px 4px;
+}
+section.blogour-blog article {
+margin:0 0 20px;}
+
+section.blogour-blog article .img-intro-left {
+    width:100%!important;
+    float: none!important;
+}
+
+section.blogour-blog article header,
+section.blogour-blog article .itemBody{
+    padding: 0!important;
+    width:100%!important;
+    float: none!important;
+}
+li.newsflash-item dl.fields-container {
+        max-width: 70%;
+}
+
+/* Footer */
+.col.menu-f .discover ul {
+    max-width: 100%;
+    width: 100%;
+}
